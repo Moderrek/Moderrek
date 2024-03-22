@@ -13,6 +13,10 @@ Software Enginner
 src="https://img.shields.io/twitter/follow/Moderr_?logo=twitter&style=for-the-badge&color=a855f7&labelColor=1c1917"
 /></a>
 
+
+[![](https://visitcount.itsvg.in/api?id=Moderrek&label=Profile%20Views&color=10&icon=3&pretty=true)](https://visitcount.itsvg.in)
+
+
 ### Skills
 
 
