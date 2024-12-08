@@ -6,8 +6,8 @@ Software Enginner
 
 * 🌍  I'm based in Poland
 * ✉️  You can contact me at [tymon.student@gmail.com](mailto:tymon.student@gmail.com)
-* 🧠  I'm learning OpenGL
-* ⚡  I specialize in Minecraft servers
+* 🧠  I'm learning [OpenGL](https://en.wikipedia.org/wiki/OpenGL), [Vue.JS](https://vuejs.org/) and [Laravel](https://laravel.com/)
+* ⚡  I specialize in Minecraft servers and Minecraft plugins in [PaperMC](https://papermc.io/)
 
 [![](https://visitcount.itsvg.in/api?id=Moderrek&label=Profile%20Views&color=10&icon=3&pretty=true)](https://visitcount.itsvg.in)
 
