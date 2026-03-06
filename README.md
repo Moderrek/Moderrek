@@ -1,12 +1,15 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Tymon Woźniak
-=====================================================================================================================================
+## Hi, I'm Moderrek
 
-* 🌍 Polish technical high school student | 18 y/o
-* 🔧 Passionate about C++, operating systems, simulations, games and logic design
-* ✉️  You can contact me at [tymon.student@gmail.com](mailto:tymon.student@gmail.com)
+Systems-oriented developer with a reductionist approach to software.  
+I build tools that prioritize performance and logical clarity.
 
-Learning deeply, building slowly, sharing openly
+### Technical Stack
 
-### Skills
+- **Languages:** C, C++, Java
+- **Environment:** Linux (Fedora/Ubuntu), GCC/Clang, CMake
+- **Engines & Frameworks:** OpenGL basics, Godot, custom engine architecture
 
-[![My Skills](https://skillicons.dev/icons?i=c,cpp,cloudflare,cmake,css,expressjs,git,github,gradle,html,idea,java,javascript,markdown,mysql,nextjs,nodejs,python,react,rider,rust,sublime,tailwindcss,typescript,visualstudio,vscode,webstorm&theme=dark&perline=9)](https://skillicons.dev)
+### Current Focus
+
+- Optimizing C++ code for modern x86-64 architecture (AVX/SEE)
+- Mastering formal logic and number theory for systems design
