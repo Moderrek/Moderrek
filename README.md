@@ -1,12 +1,14 @@
 ## Tymon Woźniak
 
-Hi, I'm 19 year-old developer based in Łódź, Poland with a reductionist approach to software.  
-I build tools that prioritize performance and logical clarity.
+Hi, I'm 19 year-old software developer from Łódź, Poland,
+with a reductionist approach to software.  
+
+I enjoy programming, developer tooling and understanding how software works.
 
 ### Technical Stack
 
-- **Languages:** C, C++, Java, JS/TS
-- **Environment:** Linux (Fedora/Ubuntu), GCC/Clang, CMake
+- **Languages:** C, C++, Java, JavaScript/TypeScript
+- **Tools:** Linux, Git, CMake, GCC/Clang
 
 ### Current Focus
 
